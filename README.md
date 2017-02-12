@@ -32,7 +32,7 @@
 ## 移动端负责人 [山西联康科技有限公司](http://www.sx-uh.com/) *（ 2015年12月 ～ 2017年1月 ）*
 
 * ### [山西挂号用户版](http://sxyygh.com/d/index.html)
-采用 Clean Architecture 架构来分离表现层、业务层和数据层。把应用内 Common UI、DB、Network 等模块剥离为单独组件。另外在团队中积极推动 TDD 实践，最终把应用的 Crash 率降低到 0.2% 以下。
+采用 Clean Architecture 架构来分离表现层、业务层和数据层。把应用内 Common UI、DB、Network 等模块剥离为单独组件。另外在团队中积极推动 TDD 实践，最终把应用的 Crash 率降到 0.2% 以下。
 
 * ### [山西挂号医生版](http://sxyygh.com/d/index.html)
 解决严重的内存泄漏问题，利用模块化解耦项目复杂度，重构原有面条式代码。
