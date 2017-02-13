@@ -33,8 +33,8 @@
 
 * ### [山西挂号用户版](http://sxyygh.com/d/index.html)
 采用 Clean Architecture 架构来分离表现层、业务层和数据层。  
-把应用内 Common UI、DB、Network 等模块解耦，剥离为单独组件，方便快速开发。  
-优化前端数据加载的过程中，倒逼后端重构臃肿的接口，缩短数据解析时间 30%。  
+把应用内 Common UI、DB、Network 等模块解耦，剥离为单独组件，方便快速开发。  
+优化前端数据加载的过程中，倒逼后端重构臃肿的接口，缩短数据解析时间 30%。  
 在团队中积极推动 TDD 实践，把应用的 Crash 率降到 0.2% 以下。
 
 * ### [山西挂号医生版](http://sxyygh.com/d/index.html)
