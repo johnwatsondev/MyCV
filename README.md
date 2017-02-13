@@ -65,5 +65,5 @@
 
 # 技术信息获取
 * 订阅 Android Weekly 等技术资讯网站。  
-* 关注 Google、Facebook 和 Squre 等活跃开源组织的技术博客。  
+* 关注 Google、Facebook 和 Square 等活跃开源组织的技术博客。  
 * 在 Twitter、Medium 上通过业界领导者或 GDE 了解最新技术动态。
