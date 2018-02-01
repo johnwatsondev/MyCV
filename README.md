@@ -30,15 +30,29 @@
 ---
 
 # 工作经历
+## 安卓高级开发工程师 [浙江钱粒科技有限公司](https://www.fqgj.net/) *（ 2017年2月 ～ 2018年2月 ）*
+
+* ### [钱粒账单](http://sj.qq.com/myapp/detail.htm?apkName=com.qianlizhangdan.app)
+采用 Clean Architecture 架构来分离表现层、业务层和数据层。  
+把应用内 Common UI、DB、Network 等模块解耦，剥离为单独组件，方便快速开发。  
+优化前端数据加载的过程中，倒逼后端重构臃肿的接口，缩短数据解析时间 30%。  
+//todo，把应用的 Crash 率降到 0.2% 以下。
+
+* ### [金壹贷](http://sj.qq.com/myapp/detail.htm?apkName=com.qiantu.youqian)
+利用 ⌈模块化⌋ 重构原有面条式代码，增强代码扩展能力。  
+表现层采用 MVP 架构，使用 Retrofit 和 Rxjava 优雅实现和 Server 端交互。  
+部分灵活展示性业务采用 hybrid - native 方法缩短开发周期，方便后期快速迭代。  
+为组员普及优化应用性能和规避内存泄漏的方法，周末定期组织大家 review 关键代码。
+
 ## 移动端负责人 [山西联康科技有限公司](http://www.sx-uh.com/) *（ 2015年6月 ～ 2017年1月 ）*
 
-* ### [山西挂号用户版](http://sxyygh.com/d/)
+* ### [山西挂号用户版](http://sj.qq.com/myapp/detail.htm?apkName=com.uh.rdsp)
 采用 Clean Architecture 架构来分离表现层、业务层和数据层。  
 把应用内 Common UI、DB、Network 等模块解耦，剥离为单独组件，方便快速开发。  
 优化前端数据加载的过程中，倒逼后端重构臃肿的接口，缩短数据解析时间 30%。  
 在团队中积极推动 TDD 实践，把应用的 Crash 率降到 0.2% 以下。
 
-* ### [山西挂号医生版](http://sxyygh.com/d/)
+* ### [山西挂号医生版](http://sj.qq.com/myapp/detail.htm?apkName=com.uh.hospital)
 利用 ⌈模块化⌋ 重构原有面条式代码，增强代码扩展能力。  
 表现层采用 MVP 架构，使用 Retrofit 和 Rxjava 优雅实现和 Server 端交互。  
 部分灵活展示性业务采用 hybrid - native 方法缩短开发周期，方便后期快速迭代。  
