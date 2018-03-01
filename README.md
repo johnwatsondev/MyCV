@@ -2,11 +2,11 @@
 
  - 赵峰/男/1991
  - 工作年限：5年
- - 教育背景：本科 山东工商学院 电子信息科学与技术
+ - 教育经历：本科 山东工商学院 电子信息科学与技术 2009-2013
  - 期望职位：Android 高级开发工程师
  - 期望薪资：面议
  - 手机：15513898286
- - 技术博客：johnwatsondev.com
+ - 技术博客：[johnwatsondev.com](http://johnwatsondev.com)
  - Email：johnwatsondev.com@gmail.com
  
 ---
@@ -24,7 +24,6 @@
 ---
 
 ## 工作经历
-
 ### 安卓高级开发工程师 [浙江钱粒科技有限公司](https://www.fqgj.net/) *（ 2017年2月 ～ 2018年2月 ）*
 
 * #### [钱粒账单](http://sj.qq.com/myapp/detail.htm?apkName=com.qianlizhangdan.app)
